@@ -10,7 +10,7 @@ import rehypeTableWrap from './src/utils/rehype-table-wrap.mjs';
 import rehypeReferences from './src/utils/rehype-references.mjs';
 
 export default defineConfig({
-  site: 'https://caomaolufei.github.io',
+  site: 'https://zhibinf.github.io',
   base: '/AIInfraGuide',
   integrations: [tailwind(), sitemap()],
   experimental: {
